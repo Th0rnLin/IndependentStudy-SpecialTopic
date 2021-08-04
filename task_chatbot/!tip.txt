@@ -1,0 +1,7 @@
+python version=='3.6.9'
+gensim version=='3.6.0'
+jieba version=='0.42.1'
+numpy version=='1.19.5'
+joblib version=='1.0.0'
+sklearn version=='0.22.2.post1'
+dill version=='0.3.3'

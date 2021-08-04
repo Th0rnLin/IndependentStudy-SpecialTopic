@@ -1,0 +1,6 @@
+database/address_data/
+database/disaster_case_data/
+database/jieba_dict_data/
+database/word2vec_data/
+
+you need to run "wiki_corpus/Untitled.ipynb" to get word2vec data of wiki corpus and add that to "database/word2vec_data/".
